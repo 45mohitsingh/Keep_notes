@@ -8,7 +8,9 @@ html {
 }
 body {
   background: #eee;
+
   background-image: url("https://www.transparenttextures.com/patterns/arabesque.png");
+
   padding: 0 16px;
 }
 
@@ -56,6 +58,7 @@ footer p {
   word-wrap: break-word;
 }
 
+
 .note button {
   position: relative;
   float: right;
@@ -101,3 +104,4 @@ form.create-note button {
   cursor: pointer;
   outline: none;
 }
+
